@@ -1,0 +1,288 @@
+body{
+    width: 80%;
+    height: auto;
+    float: left;
+    position: relative;
+    left: 10%;
+}
+h1{
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position: relative;
+    left: 8%;
+}
+#top{
+    background-color: red;
+    height: 100px;
+    width: 100%;
+    position: static;
+}
+#logo{
+    position: absolute;
+    left: 110px;
+    top: 48px;
+    border-radius: 30px;
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+}
+#logohead{
+    width: 32px;
+    height: 47px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 33px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: normal;
+    text-align: left;
+    color:#eb2929;
+    position: relative;
+    left: 120px;
+    top: 25px;
+}
+#logoimg{
+    border-radius: 30px;
+}
+#signup{
+    position: absolute;
+    right: 100px;
+    top: 40px;
+    
+}
+#login{
+    border: none;
+    border-radius: 2px;
+}
+#sign{
+    border: black;
+    border: 2px;
+    border-radius: 2px;
+    
+}
+#bot{
+    
+    height:600px ;
+    width: 100%;
+    background-color: #ffffff;
+    position: static;
+
+}
+#left{
+   
+    
+    height: inherit;
+    width: 35%;
+    position:absolute ;
+    float: left;
+   }
+#left1{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+    color: #192f60;
+    font-weight: 300;
+    
+    font-size: large;
+    position: inherit;
+    left: 30px;
+}
+select{
+    width: 208px;
+    height: 35px;
+    margin: 11px 0 22px 1px;
+    padding: 8px 16.7px 7px 15px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+  }
+#right
+{ position: absolute;
+    float :right;
+    right: 0px;
+width: 60%;
+height: inherit;
+}
+#right1{
+    
+        width: 100%;
+        height: 250px;
+        
+        padding: 25px 32.6px 20px 35px;
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
+#img1{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    border-radius: 20px;
+}
+.chill{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+    position: absolute;
+    left: 200px;
+    top: 0px;
+}
+.fort{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position: absolute;
+    left: 210px;
+    top: 40px;
+    
+}
+.shop1{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position: absolute;
+    left: 210px;
+    top: 60px;
+}
+#cuisine{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position: absolute;
+    top:175px;
+    float: left;
+}
+#bakery{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position: absolute;
+    top: 170px;
+    left: 210px;
+}
+  #right2 {
+    width: 100%;
+    height: 250px;
+    
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    
+  }
+  #img2{
+    position: inherit;
+    top: 25px;
+    left: 25px;
+    border-radius: 20px;
+  }
+  .bak{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;  
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+.fort1{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position: absolute;
+    left: 210px;
+    top: 340px;
+}
+.shop2{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position: absolute;
+    left: 210px;
+    top: 360px;
+}
+#cuisine1{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position: absolute;
+    top:470px;
+    float: left;
+}
+#bakery1{
+    font-family: "Gill Sans Extrabold", sans-serif;;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position: absolute;
+    top:465px;
+    left: 210px;
+}
+  #right3{
+    width: 100%;
+    height: 100px;
+     
+  }
+  #table{
+      position: relative;
+      left: 50%;
+  }
